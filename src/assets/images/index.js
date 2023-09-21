@@ -1,0 +1,10 @@
+export {default as LOGO_0} from './ateca_logo_0.jpeg';
+export {default as LOGO_1} from './ateca_logo_1.jpeg';
+export {default as LOGO_2} from './ateca_logo_2.png';
+export {default as PROFILE} from './profile.jpg';
+export {default as TimeSheetIcon} from './timesheet.jpeg';
+export {default as expensesIcon} from './expenses.png';
+export {default as TimeSheetIcon1} from './timesheet1.png';
+export {default as expensesIcon1} from './expense1.jpg';
+export {default as Team} from './team.png';
+export {default as userImage} from './loginUser.jpeg';
